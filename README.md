@@ -1,2 +1,2 @@
-# le bombe
-le bombe :bomb:
+# le bombe :bomb:
+:bomb:
